@@ -1,5 +1,6 @@
 # SpringAI
-Simple Implementation of the SpringAI project
+Simple Implementation of the SpringAI project:
+https://docs.spring.io/spring-ai/reference/index.html
 
 in cmd:
 set OPENAI_API_KEY=your openai api key
